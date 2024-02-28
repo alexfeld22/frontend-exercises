@@ -1,0 +1,122 @@
+/* .box{
+  height: 100px;
+  width: 100px;
+  display: block;
+}
+ */
+
+/* .parent{
+  height: 300px;
+  width: 300px;
+  position: relative;
+  background-color: red;
+}
+
+.child{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+}
+
+.one{
+  left:0px;
+  background-color: blue;
+}
+
+.two{
+  right:0px;
+  background-color: green;
+}
+
+.three{
+  bottom:0px;
+  background-color: purple;
+}
+
+.four{
+  right:0px;
+  bottom: 0px;
+  background-color: gold;
+}
+
+.five{
+  left:100px;
+  top: 100px;
+  background-color: lemonchiffon;
+} */
+
+/* === ex1 === */
+
+/* .parent{
+  height: 500px;
+  border: 5px solid gray;
+}
+
+.child{
+  width: 100px;
+  height: 50px;
+  background-color: lightgray;
+  transform: translate(-50%, 0px);
+  position: relative;
+  left: 50%;
+} */
+
+/* === ex2 === */
+
+/* .nav-container{
+  background-color: lightgray;
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+}
+
+.nav-item{
+  display: inline-block;
+  height: 20px;
+  padding: 5px 5px 5px 5px
+}
+
+.content-container{
+  margin: 50px 5% 5% 5%;
+} */
+
+/* === ex3 === */
+
+/* .nav-container{
+  background-color: lightgray;
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+}
+
+.nav-item{
+  display: inline-block;
+  height: 20px;
+  padding: 5px 5px 5px 5px
+}
+
+.content-container{
+  margin: 50px 5% 5% 5%;
+} */
+
+.content-container{
+  margin: 0px 0px 50px 0px;
+  padding: 0px 0px 10px 0px;
+  position: relative;
+}
+
+.footer-container{
+  background-color: black;
+  color: white;
+  width: 100%;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  height: 30px;
+}
+
+.footer-text{
+  margin: 5px 0px 0px 8px;
+}

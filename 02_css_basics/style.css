@@ -1,0 +1,66 @@
+/* div {
+    width: 50px;
+    height: 50px;
+    background-color: #e74c3c;
+  }
+
+  h1 {
+    font-family: "Helvetica";
+  }
+
+  ul {
+    color: red;
+  }
+
+  .heading {
+    font-weight: bold;
+    vertical-align: middle;
+  }
+  
+  .tomato {
+    color: tomato;
+  }
+  
+  .gross-color {
+    color: #a3c010;
+  }
+  
+  .nice-color {
+    color: #03bbbb;
+  }
+
+  p:nth-child(100) {
+    background: gold;
+  }
+
+
+/* All p elements that within a div are given blue text 
+div.direct-children > p {
+color: green;
+} */
+
+#container{
+    background-color: lightgray;
+    display: inline-block;
+    box-shadow: 5px 5px 5px gray;
+}
+
+span.box{
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+#first{
+    background-color: green;
+}
+
+#second{
+    background-color: orange;
+}
+
+.button{
+    background-color: greenyellow;
+}
